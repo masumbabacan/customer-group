@@ -1,5 +1,5 @@
 (function($){
-    app = {
+    let app = {
         func:{
             groupIdQuery : () => {
                 if(customerGrupId == customerTypeOne){
